@@ -1,0 +1,9 @@
+Package: org.thebigboss.keyboardclicksoundfs
+Name: Keyboard Click Sound FS
+Depends: mobilesubstrate, com.a3tweaks.flipswitch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Toggle for Keyboard Clicks sound.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Addons (Flipswitch)
