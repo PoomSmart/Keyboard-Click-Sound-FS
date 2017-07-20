@@ -10,7 +10,7 @@ NSString *const kSwitchIdentifier = @"com.PS.KeyboardClicks";
 @interface KeyboardClicksSwitch : NSObject <FSSwitchDataSource>
 @end
 
-static void PreferencesChanged(){
+static void PreferencesChanged() {
     [[FSSwitchPanel sharedPanel] stateDidChangeForSwitchIdentifier:kSwitchIdentifier];
 }
 
